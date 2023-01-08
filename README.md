@@ -23,13 +23,4 @@ I'm currently preparing myself to get back into the field. At the moment, I'm pu
 
 #
 
-### Social Media
-
-[<img style="padding-right:10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanisecarvalho)  
-[<img style="padding-right:10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanise.carvalho/) 
-[<img style="padding-right:10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanisecarvalho/) 
-[<img style="padding-right:10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tanisecarvalho)  
-
-#
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanisecarvalho&theme=midnight-purple&show_icons=true)
