@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Tanise Carvalho.
 
 I'm a Software Developer with eight years of experience working with HTML, CSS, JavaScript, PHP (and some .NET). (2009-2017).
-From 2018 to 2022, I was on a career break. I moved from Brazil to Ireland to improve my English and soft skills while working in various hospitality jobs. During this period, I also graduated in Business, completed a few programming courses, and took two Microsoft MTA Certifications.
+From 2018 to 2022, I was on a career break. I moved from Brazil to Ireland to improve my English and soft skill. During this period, I also graduated in Business, completed a few programming courses, and took two Microsoft MTA Certifications.
 I'm currently preparing myself to get back into the field. At the moment, I'm pursuing a Diploma in Full Stack Software Development at Code Institute.
 
 #
