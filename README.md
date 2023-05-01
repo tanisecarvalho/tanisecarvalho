@@ -24,3 +24,7 @@ I'm currently preparing myself to get back into the field. At the moment, I'm pu
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanisecarvalho&theme=midnight-purple&show_icons=true)
+
+#
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanisecarvalho&theme=violet-punch)](https://git.io/streak-stats)
